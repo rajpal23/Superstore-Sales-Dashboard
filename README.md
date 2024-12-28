@@ -31,11 +31,7 @@ The dataset includes the superstore's sales data such as:
 Sales, Profit, and Quantity.
 Customer segments.
 State-wise distribution.
-🚀 Getting Started
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/superstore-sales-dashboard.git
+
 Open the dashboard file in Tableau/Power BI.
 🧑‍💻 Contributions
 Feel free to fork this repository, raise issues, or create pull requests. Contributions are welcome!
